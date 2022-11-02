@@ -1,6 +1,6 @@
-# Hey, I'm <a href="https://www.linkedin.com/in/thomas-thornton-21a86b75/" target="_blank">Kameswara Rao Pudi</a>! 👋
+# Hey, I'm <a href="https://www.linkedin.com/in/kameswara-rao-pudi-296a8a18/" target="_blank">Kameswara Rao Pudi</a>! 👋
 
-<a href= "https://twitter.com/tamstar1234"><img src="https://img.icons8.com/nolan/50/twitter.png"/></a>
+
 <a href= "https://www.linkedin.com/in/kameswara-rao-pudi-296a8a18/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
 ## About me!
